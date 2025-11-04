@@ -20,6 +20,7 @@
                     Console.WriteLine("[" + nP[i] + "]");
                 }
             }
+            // es n:3
             Console.WriteLine("-------------------------------------------");
             int[] nD = { 1, 54, 7, 4, 3 };
             for (int i = 0; i < nD.length; i++)
